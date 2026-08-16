@@ -1,4 +1,4 @@
-// ====== ĐẾ CHẾ MINI - MULTIPLAYER SERVER ======
+==== ĐẾ  MINI - MULTIPLAYER SERVER ======
 // Server thật (Node.js + WebSocket) điều khiển toàn bộ zombie/boss/wave — không còn khái niệm
 // "ai đó làm chủ phòng bằng trình duyệt" nữa, nên loại bỏ hết các lỗi đồng bộ do độ trễ mạng
 // hay trình duyệt bị hệ điều hành tạm dừng.
